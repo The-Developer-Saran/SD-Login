@@ -1,0 +1,10 @@
+[
+    {
+        "details":{
+            "id":1,
+            "email":"saran@gmail.com",
+            "password":"1234",
+            "position":"Trainee"
+        }
+    }
+]
